@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570255773 source:c:\users\sami\desktop\new folder\odd_and_even_elements_from_one_array_to_separate_arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

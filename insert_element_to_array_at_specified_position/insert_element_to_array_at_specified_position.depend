@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570300684 source:c:\users\sami\desktop\new folder\insert_element_to_array_at_specified_position\main.c
+	<stdio.h>
+	<stdlib.h>
+

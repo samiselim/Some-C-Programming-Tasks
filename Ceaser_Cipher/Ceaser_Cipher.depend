@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570602279 source:c:\users\sami\desktop\c_tasks\ceaser_cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+

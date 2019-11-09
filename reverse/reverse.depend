@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549386918 source:e:\course programs\tasks\reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+

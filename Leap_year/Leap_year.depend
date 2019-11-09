@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549370629 source:e:\course programs\tasks\leap_year\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570516351 source:c:\users\sami\desktop\sum_of_two_arrays_using_malloc_and_calloc\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549364296 source:e:\embeddedfab\course programs\tasks\switchcaseoperands\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549372745 source:e:\course programs\tasks\alpha_or_not\main.c
+	<stdio.h>
+	<stdlib.h>
+

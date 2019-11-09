@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549308602 source:c:\users\sami\desktop\number is negative\main.c
+	<stdio.h>
+	<stdlib.h>
+

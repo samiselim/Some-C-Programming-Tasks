@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570949944 source:c:\users\sami\desktop\c_tasks\simple_betting_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
